@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgrpc_workbench=self.webpackChunkgrpc_workbench||[]).push([[6983],{96983:(e,n,r)=>{r.r(n),r.d(n,{desktopCommunicationService:()=>c});const o={invoke:()=>{throw new Error("Function not implemented.")},send:()=>{throw new Error("Function not implemented.")},subscribe:()=>{throw new Error("Function not implemented.")}},t=()=>o,c={send:(e,...n)=>t().send(e,...n),invoke:(e,...n)=>t().invoke(e,...n),subscribe:(e,n)=>t().subscribe(e,n)||(()=>null)}}}]);
+//# sourceMappingURL=6983.44f651c4990922fe.js.map

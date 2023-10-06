@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkworkbench=self.webpackChunkworkbench||[]).push([[2212],{2212:(e,n,r)=>{r.r(n),r.d(n,{Component:()=>k.a,loader:()=>o.loader});var a=r(4350),k=r.n(a),o=r(5958)}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkworkbench=self.webpackChunkworkbench||[]).push([[810],{810:(e,r,n)=>{n.r(r),n.d(r,{Component:()=>s.a,loader:()=>a.grpcHistoryRequestLoader});var o=n(7573),s=n.n(o),a=n(4713)}}]);

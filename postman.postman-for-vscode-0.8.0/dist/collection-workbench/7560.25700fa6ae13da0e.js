@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcollection_workbench=self.webpackChunkcollection_workbench||[]).push([[7560],{7560:(n,e,t)=>{function c(){return c=Object.assign?Object.assign.bind():function(n){for(var e=1;e<arguments.length;e++){var t=arguments[e];for(var c in t)Object.prototype.hasOwnProperty.call(t,c)&&(n[c]=t[c])}return n},c.apply(this,arguments)}t.d(e,{Z:()=>c})}}]);
+//# sourceMappingURL=7560.25700fa6ae13da0e.js.map

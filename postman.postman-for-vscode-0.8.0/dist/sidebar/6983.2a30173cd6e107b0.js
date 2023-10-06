@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksidebar=self.webpackChunksidebar||[]).push([[6983],{6983:(e,n,r)=>{r.r(n),r.d(n,{desktopCommunicationService:()=>s});const o={invoke:()=>{throw new Error("Function not implemented.")},send:()=>{throw new Error("Function not implemented.")},subscribe:()=>{throw new Error("Function not implemented.")}},i=()=>o,s={send:(e,...n)=>i().send(e,...n),invoke:(e,...n)=>i().invoke(e,...n),subscribe:(e,n)=>i().subscribe(e,n)||(()=>null)}}}]);
+//# sourceMappingURL=6983.2a30173cd6e107b0.js.map
